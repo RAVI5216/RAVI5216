@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 
-<h3 align="center">B.Tech CSE Student | Aspiring Java Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">B.Tech CSE Student | Java Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAVI5216&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -10,12 +10,14 @@
 
 ### 🚀 About Me
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 💻 Interested in Java Full Stack Development and Software Engineering.
-* 🌱 Currently learning **Java, Spring Boot and Backend Development**.
-* 🔥 Active Open Source Contributor at **Kestra**.
-* 🏆 Successfully merged **5 Pull Requests** into Kestra.
-* 🎯 Working towards becoming a Software Development Engineer (SDE).
+* 🎓 B.Tech Computer Science Engineering Student.
+* 💻 Software Developer focused on Java Full Stack Development.
+* ☕ Skilled in Java, OOP, and Full Stack Development.
+* 🌱 Exploring Spring Boot and advanced backend technologies.
+* 🔥 Open Source Contributor at Kestra.
+* 🏆 Successfully merged 5 Pull Requests into Kestra.
+* 🎯 Passionate about building scalable applications and solving real-world problems.
+
 
 ---
 
