@@ -38,13 +38,13 @@
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,springboot" />
 </p>
 
 **Database**
