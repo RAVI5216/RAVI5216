@@ -44,7 +44,7 @@
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,springboot" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 **Database**
