@@ -2,10 +2,6 @@
 
 <h3 align="center">B.Tech CSE Student | Java Full Stack Developer | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAVI5216&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
