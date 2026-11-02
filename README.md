@@ -13,11 +13,11 @@
 
 ## 🛠️ Technologies & Tools
 
-* **Languages:** Java, C, JavaScript
-* **Frontend:** HTML, CSS, React
-* **Backend:** Node.js, Express.js
-* **Database:** MySQL, MongoDB
-* **Tools:** Git, GitHub, VS Code
+- **Languages:** Java, C, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Spring Boot, Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools & IDEs:** IntelliJ IDEA, VS Code, Git, GitHub, Apache NetBeans
 
 ## 🔗 Connect With Me
 
