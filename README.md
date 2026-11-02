@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ravi Kumar 👋
 
-<!--
-**RAVI5216/RAVI5216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Java Full Stack Developer | Open Source Contributor
 
-Here are some ideas to get you started:
+* 🌱 Currently learning Java and Spring Boot.
+* 💻 Interested in Software Development and Backend Engineering.
+* 🚀 Actively contributing to Open Source projects.
+* 🎯 Working towards becoming an SDE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Open Source Contributions
+
+[![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge\&logo=github\&logoColor=200062\&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:RAVI5216+is:pr+is:merged&type=pullrequests)
+
+## 🛠️ Technologies & Tools
+
+* **Languages:** Java, C, JavaScript
+* **Frontend:** HTML, CSS, React
+* **Backend:** Node.js, Express.js
+* **Database:** MySQL, MongoDB
+* **Tools:** Git, GitHub, VS Code
+
+## 🔗 Connect With Me
+
+* GitHub: [RAVI5216](https://github.com/RAVI5216)
