@@ -56,7 +56,7 @@
 **Tools & IDEs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
